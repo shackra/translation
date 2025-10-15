@@ -698,6 +698,7 @@
       "EMBED_LINK": "Enlace incrustado",
       "INVALID_URL": "URL Inválido",
       "LABEL": "Enlace",
+      "LABEL_MOBILE": "Enlaces",
       "LINK": "Enlace",
       "LINK_WITH_COUNT_one": "{{count, number}} Enlace",
       "LINK_WITH_COUNT_other": "{{count, number}} Enlaces",
@@ -706,9 +707,12 @@
     },
     "UPLOAD_SOURCE": {
       "EMPTY": "Arrastra PDF, Word, PPT y <moreLink>más</moreLink> aquí!",
+      "FILE_TYPES": "Acepta PDF, Word, PPT, XLSX, ePub y <moreLink>más formats</moreLink>",
+      "PASTE_URL": "Pega la URL de YouTube, PDF o página web",
       "IMPORT_INSTEAD": "RemNote no puede aceptar archivos de este tipo. Sin embargo, ¡podríamos importar las notas o tarjetas de estudio contenidas en este archivo! Intenta seleccionar \"Importar\" desde el menú de la cuenta en la esquina superior izquierda.",
       "INVALID": "Lo sentimos, RemNote no puede aceptar archivos de este tipo.",
       "LABEL": "Subir",
+      "LABEL_MOBILE": "Archivos",
       "PDF": "PDF",
       "PDF_WITH_COUNT_one": "{{count, number}} PDF",
       "PDF_WITH_COUNT_other": "{{count, number}} PDFs",
@@ -717,10 +721,13 @@
       "UPLOAD": "Subir",
       "UPLOADING": "Subiendo..."
     },
+    "RECORD_SOURCE": {
+      "LABEL": "Registro"
+    },
     "WIKIMEDIA_COMMONS": {
+      "LABEL": "Búsqueda de Imágenes",
       "EMPTY": "¡Suelta aquí archivos PDF, Word, PPT y <moreLink>más</moreLink>!",
       "INVALID": "¡Formato de archivo incorrecto!",
-      "LABEL": "Búsqueda de Imágenes",
       "PDF": "PDF",
       "PDF_WITH_COUNT_one": "{{count, number}} PDF",
       "PDF_WITH_COUNT_other": "{{count, number}} PDFs",
